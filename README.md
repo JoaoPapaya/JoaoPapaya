@@ -1,5 +1,5 @@
 <p align="center">
-![imagem](https://media1.tenor.com/m/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif)
+![image](https://media1.tenor.com/m/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif)
 <p align="left">
   
 - 👦 Eu sou <strong>João Barboza</strong> de <strong>Recife, PE</strong>
