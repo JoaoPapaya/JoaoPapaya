@@ -1,6 +1,6 @@
 <p align="center">
 
-  ![club-penguin-ghosthy](https://github.com/JoaoPapaya/JoaoPapaya/assets/164504291/683ed373-65bc-4377-a652-6d1ed7aef14d)
+![6a1d415bac0a94c46f4f0ff8ee0524f8](https://github.com/JoaoPapaya/JoaoPapaya/assets/164504291/69f45ca2-290c-489b-ae3b-4089746b6e6c)
 
 <p align="left">
   
