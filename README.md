@@ -7,7 +7,7 @@
 
 - 🔭 <strong>Senac mediotec rules👌</strong>
 
-- 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
+- 🌱 <strong> Planta legal 👍(Áreas, linguagens)</strong>
 
 - 👯 Eu NÃO estou procurando colaborar em projetos open source.
 
