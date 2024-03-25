@@ -1,5 +1,7 @@
 <p align="center">
-![image](https://media1.tenor.com/m/wuyEcsxrvQwAAAAC/club-penguin-ghosthy.gif)
+
+![club-penguin-ghosthy](https://github.com/JoaoPapaya/JoaoPapaya/assets/164504291/683ed373-65bc-4377-a652-6d1ed7aef14d)
+
 <p align="left">
   
 - 👦 Eu sou <strong>João Barboza</strong> de <strong>Recife, PE</strong>
