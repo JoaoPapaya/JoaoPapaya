@@ -3,15 +3,15 @@
 
 <p align="left">
   
-- 👦 Eu sou <strong>Nome</strong> de <strong>Estado</strong>
+- 👦 Eu sou <strong>João Barboza</strong> de <strong>Recife, PE</strong>
 
-- 🔭 <strong>Informações sobre sua faculdade/curso</strong>
+- 🔭 <strong>Senac mediotec rules👌</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
-- 👯 Eu estou procurando colaborar em projetos open source.
+- 👯 Eu NÃO estou procurando colaborar em projetos open source.
 
-- 💬 Pergunte-me sobre <strong>Seus interesses</strong>
+- 💬 NÃO Pergunte me sobre <strong>nada</strong>
 </p>
 <p align="center">📫<b>Meus contatos</br></p>
 
