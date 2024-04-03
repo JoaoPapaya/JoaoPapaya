@@ -1,6 +1,6 @@
 <p align="center">
 
-![6a1d415bac0a94c46f4f0ff8ee0524f8](https://github.com/JoaoPapaya/JoaoPapaya/assets/164504291/69f45ca2-290c-489b-ae3b-4089746b6e6c)
+![6a1d415bac0a94c46f4f0ff8ee0524f8](https://i.redd.it/q1xhhsof1pe81.gif)
 
 <p align="left">
   
